@@ -2,6 +2,12 @@
 This repository contains the code for a full-stack JavaScript engineer assessment. The project is split into two sections: a Backend using Node.js and a Frontend using Next.js. The goal is to create a country information app that provides data such as country details, borders, population trends, and more.
 [Web preview of the project](https://country-app-frontend.vercel.app/) the backend is deployed on render, while the frontend on vercel.
 
+## !! IMPORTANT !!
+If you are new with submodules clone this project using the following command:
+```bash
+git clone --recursive https://github.com/devfercastro/country-app-assessment.git
+```
+
 
 ## Table of Contents
 1. [Running the Project](#running-the-project)
